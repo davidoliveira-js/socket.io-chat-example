@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed&family=Poppins:wght@300&display=swap');
+
+
+
+:root{
+	
+	--back-color:#161920;
+	--back-color-full:#000;
+	--back-color-medium: #212330;
+	--back-color-shadow: #16131fe4;
+	--text-color: #ccc;
+	--text-full: #fff;
+	--text-size-small: 12px;
+	--text-size-medium: 16px;
+	--text-size-big: 24px;
+	--icon-brightness: 2.5;
+	--text-medium: #9494a4;
+	--text-font-special:'Poppins', sans-serif;
+	--text-font-all:'Barlow Condensed', sans-serif;
+	--text-font-all-r:'Robot', sans-serif;
+}
+.msgErro{
+	background-color: #f7c0c0;
+	color: #ed4646;
+	text-align: center;
+}
+*{
+	font-family: Verdana;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+body{
+	background-color: var(--back-color-dark);
+}

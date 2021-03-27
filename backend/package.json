@@ -1,0 +1,36 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goldenstein171/CentralRuby.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goldenstein171/CentralRuby/issues"
+  },
+  "homepage": "https://github.com/goldenstein171/CentralRuby#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bcrypt": "^5.0.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cookie": "^0.4.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^4.4.1",
+    "http-proxy-agent": "^4.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.21.17",
+    "socket.io": "^3.1.0",
+    "user-agents": "^1.0.559"
+  }
+}
