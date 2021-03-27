@@ -17,7 +17,7 @@
 
 ## EXAMPLE USAGE
 
-* Create 2 new users:
+* Create 2 new accounts:
 
 ![](https://github.com/davidoliveira-js/socket.io-chat-example/blob/main/readme_imgs/create.jpeg)
 
