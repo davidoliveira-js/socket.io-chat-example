@@ -19,8 +19,8 @@
 
 * Create 2 new users:
 
-![](https://raw.githubusercontent.com/davidoliveira-js/socket.io-chat-example/main/readme_imgs/create.jpeg?token=AQ7O5Y5SCSBMZMPOCJL2KC3AL4YK2)
+![](https://github.com/davidoliveira-js/socket.io-chat-example/blob/main/readme_imgs/create.jpeg)
 
 * Log in with accounts in different windows and send messages from one user to another:
 
-![](https://raw.githubusercontent.com/davidoliveira-js/socket.io-chat-example/main/readme_imgs/chat.jpeg?token=AQ7O5Y3PNE7VNU545CCYKUDAL4ZOA)
+![](https://github.com/davidoliveira-js/socket.io-chat-example/blob/main/readme_imgs/chat.jpeg)
